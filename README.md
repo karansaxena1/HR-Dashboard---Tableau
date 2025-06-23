@@ -72,3 +72,5 @@ MIT License - Free to use and modify! 🎉
 - Inspired by HR data analysis needs. 👏
 
 Happy analyzing! 😄🚀
+
+# Made with ❤ by [Karan Saxena](https://www.linkedin.com/in/karan1saxena/)
